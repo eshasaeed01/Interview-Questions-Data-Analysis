@@ -16,7 +16,7 @@ The primary dataset used for this analysis is "file.csv" ,containing all the imp
 ### Data Analysis
 - Removing all null values in the dataset
 - Filtering values
-- Using seaborn for heatmap
+- made a pivot table
 
 ### Limitations
 I had to remove all the null values , because they can effect the analysis.
